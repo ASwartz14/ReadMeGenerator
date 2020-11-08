@@ -14,7 +14,9 @@
   * See the project repository:https://github.com/ASwartz14/ReadMeGenerator on GitHub.
   * Deployed Project:
  ## Visuals
- ![readME img](https://github.com/ASwartz14/ReadMeGenerator/blob/master/assets/readME.png) ![readME demo](https://github.com/ASwartz14/ReadMeGenerator/blob/master/assets/readMEvid-Trim.mp4)
+ ![readME img](https://github.com/ASwartz14/ReadMeGenerator/blob/master/assets/readME.png)
+ 
+ ![readME demo](https://github.com/ASwartz14/ReadMeGenerator/blob/master/assets/readMEvid-Trim.mp4)
   ## Installation
   npm i
   ## Usage 
