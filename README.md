@@ -16,7 +16,7 @@
  ## Visuals
  ![readME img](https://github.com/ASwartz14/ReadMeGenerator/blob/master/assets/readME.png)
  
- ![readME demo](https://github.com/ASwartz14/ReadMeGenerator/blob/master/assets/readMEvid-Trim.mp4)
+ ![readME demo](https://github.com/ASwartz14/ReadMeGenerator/blob/master/assets/readMEvid-Trim.gif)
   ## Installation
   npm i
   ## Usage 
