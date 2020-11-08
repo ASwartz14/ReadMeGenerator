@@ -11,8 +11,8 @@
   
   ## Description
   A simple command-line app that uses node.js, npm inquire, and npm fs to generate a thorough, professional readME.md from the users input. ****THIS README WAS GENERATED WITH APP. 
-  * See the [project repository(https://github.com/ASwartz14/ReadMeGenerator)] on GitHub.
-  * [Deployed Project()]
+  * See the project repository:https://github.com/ASwartz14/ReadMeGenerator on GitHub.
+  * Deployed Project:
  ## Visuals
  ![readME img](https://github.com/ASwartz14/ReadMeGenerator/blob/master/assets/readME.png) ![readME demo](https://github.com/ASwartz14/ReadMeGenerator/blob/master/assets/readMEvid.mp4)
   ## Installation
