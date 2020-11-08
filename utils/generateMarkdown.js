@@ -13,8 +13,8 @@ function generateMarkdown(data) {
   
   ## Description
   ${data.description}
-  * See the [project repository(${data.repo})] on GitHub.
-  * [Deployed Project(${data.deployed})]
+  * See the project repository: ${data.repo} on GitHub.
+  * Deployed Project: ${data.deployed}
  ## Visuals
  ${data.visuals}
   ## Installation
