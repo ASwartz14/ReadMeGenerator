@@ -2,7 +2,7 @@ const inquirer = require("inquirer");
 const fs = require("fs");
 const generateMarkdown = require('./utils/generateMarkdown.js');
 
-const genRmMd = generateMarkdown(data);
+
 // array of questions for user
 const questions = [{
         type: "input",
@@ -18,6 +18,11 @@ const questions = [{
         type: "input",
         message: "How do you install project?",
         name: "install"
+    },
+    {
+        type: "input",
+        message: "What are the uses for this project?",
+        name: "usage"
     },
     {
         type: "list",
@@ -86,7 +91,7 @@ const questions = [{
 
 // function to write README file
 function writeToFile(fileName, data) {
-    fs.writeFileSync(`./${fileName}`, genRmMd);
+    return fs.writeFileSync(`./${fileName}`, data);
 }
 
 // function to initialize program
