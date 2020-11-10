@@ -26,7 +26,7 @@ function generateMarkdown(data) {
   ## Tests
   ${data.test}
   ## License
-  ${data.license}
+ * This project is licensed under ${data.license}.
   ## Questions
   * Please reach out with any questions.
   **GitHub**: [https://github.com/${data.username}](https://github.com/${data.username})
